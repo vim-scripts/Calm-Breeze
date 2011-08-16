@@ -24,7 +24,7 @@ hi IncSearch    guifg=#ff0000   guibg=#C3DCFF   gui=none
 hi Search       guifg=#ff0000   guibg=#C3DCFF
 hi MoreMsg      guifg=#ffffff   guibg=#3c960f   gui=none
 hi ModeMsg      guifg=#323232                   gui=none
-hi LineNr       guifg=darkred   guibg=#cccccc
+hi LineNr       guifg=#008C00   guibg=#F9F7ED
 hi Question     guifg=#000000   guibg=#ffde37   gui=none
 hi StatusLine   guifg=#ffffff   guibg=#323232   gui=none
 hi StatusLineNC guifg=#f0f0f0   guibg=#646464   gui=none
@@ -56,7 +56,7 @@ hi CursorColumn                 guibg=#e1f5ff
 hi CursorLine                   guibg=#FFFCD4   gui=none  cterm=none     term=none
 hi Cursor       guifg=#ffffff   guibg=#323232
 hi lCursor      guifg=#ffffff   guibg=#004364
-hi MatchParen   guifg=#ffffff   guibg=#f00078
+hi MatchParen   guifg=#3F4C6B   guibg=#D15600
 hi Normal       guifg=#323232   guibg=#FFFCE5
 hi Comment      guifg=#969696 
 hi Constant     guifg=#1094a0
@@ -67,5 +67,5 @@ hi PreProc      guifg=#294a8c
 hi Type         guifg=#a00050                   gui=none
 hi Underlined   guifg=#323232                   gui=underline
 hi Ignore       guifg=#c8c8c8
-hi Error        guifg=#000000   guibg=#ff0000  gui=underline
+hi Error        guifg=#000000   guibg=#D01F3C   gui=underline
 hi Todo         guifg=#c81414   guibg=#ffffff
